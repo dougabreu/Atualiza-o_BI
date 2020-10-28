@@ -15,7 +15,7 @@
 - [Otimização Numérica](#otimização-numérica)
 - [Otimização de planejamento](#otimização-de-planejamento)
 
-<h2 id="otimização-sob-incerteza">[Otimização sob Incerteza](https://github.com/ICA-PUC/BI-Master/tree/master/Otimiza%C3%A7%C3%A3o/Otimiza%C3%A7%C3%A3o%20sob%20Incerteza)</h2>
+<h2 id="otimização-sob-incerteza">[Otimização sob Incerteza]</h2>(https://github.com/ICA-PUC/BI-Master/tree/master/Otimiza%C3%A7%C3%A3o/Otimiza%C3%A7%C3%A3o%20sob%20Incerteza)
 
 - Otimização numérica sob condições de incerteza, onde não se tem definido os cenários de incerteza mas se tem uma série histórica de dados. Aplicação busca encontrar o plano de publicidade mais eficaz para atingir o maior público possível baseado nas séries históricas de audiências anteriores abordado na disciplina ADI.
 
